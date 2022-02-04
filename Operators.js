@@ -75,8 +75,8 @@ if (yas2 >= resitlikYasi) { // 20
   console.log("yas2 resit degil")
 }
 
-if (yas3 >= resitlikYasi) { // 18
-  console.log("yas 3 resit")
-} else {
-  console.log("yas 3 resit degil")
-}
+
+var hello = "hello ";
+var world = "world"
+
+console.log(hello + world) // NaN: Not a Number

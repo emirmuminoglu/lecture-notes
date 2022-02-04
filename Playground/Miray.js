@@ -29,7 +29,7 @@ console.log ('x,y den kucuktur')
 const miray = {
 adi:"miray",
 soyadi:"şengün",
-gözRengi: ""
+gözRengi: "mavi"
 
 }
 

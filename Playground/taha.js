@@ -30,4 +30,29 @@ if  ( x >=y ) {
 }
 
 
+const message = 'Hello World'
+const mesajiKullaniciMesajiniYazdir = true
+
+if (mesajiKullaniciMesajiniYazdir) {
+  let geciciMesaj = message
+
+  console.log(geciciMesaj)
+}
+
+var geciciMesaj = 'Gecici Mesaj'
+
+console.log(geciciMesaj)
+
+// Yazi olan degerleri tirnak icerisine almazsan onlari degisken olarak algilar
+// Yazilari tirnak icerisinde almalusun
+// Her degerin sonuna , koymalisin sonuncu hariç
+const taha = { 
+    adi: 'taha',
+    soyadi:'ekinci',
+    boy: 1.8,
+    yas: 16
+}
+console.log(taha.boy)
+   
+
 

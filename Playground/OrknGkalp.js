@@ -39,3 +39,12 @@ if (x <= y ) {
 else {
     console.log("x y den buyuktur")
 }
+
+// actigin suslu parantezi kapatmalisin
+const yamahaYZFR25 = {
+beygir : 36,
+silindirHacmi : 250,
+agirlik: 152,
+VitesTipi : "Manuel"
+}
+console.log(yamahaYZFR25)

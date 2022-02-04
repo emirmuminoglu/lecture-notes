@@ -6,6 +6,7 @@
 // var sonuc3 = x * y // 2.275
 // var sonuc4 = x / y // 0.5384615384615385
 // var sonuc5 = x ** y // 23.143.171.985.618.148.385.244.286.678.913.597.734.970.588.950.324.139.906.433.544.566.777.271.711.544.017.307.460.308.074.951.171.875
+
 // var sonuc6 = x == y - 30 // true
 // console.log(sonuc6)
 
@@ -27,3 +28,13 @@
 //     console.log("y , x'den buyuktur")
 // }
 
+// const hayalimdeki_pc = {
+//     Ana_kart:'GIGABYTE X570 AORUS XTREME',
+//     Ekran_Karti:'RTX 3090 AORUS XTREME',
+//     Islemci:'AMD RYZEN 9 5950X',
+//     HDD:'SEAGATE 14TB Ironwolf PRO',
+//     SSD:'SEAGATE 1TB Firecuda',
+//     Ram:'GSKILL 32GB',
+//     Kasa:'COOLER MASTER Cosmos'
+// }
+//     console.log(hayalimdeki_pc.Ekran_Karti)
